@@ -1,5 +1,5 @@
 <?php
-  $botToken = "6887294087:AAEC802yB2ffTk_d0HaC43X6tv3VTnaHTOs";
-  $chatID = "-4141629905";//1064643518
+  $botToken = "6676319522:AAHx7QharxfLNSQ6HLQaPudpRyZMvgIGEzw";
+  $chatID = "1064643518";//1064643518
 
 ?>
